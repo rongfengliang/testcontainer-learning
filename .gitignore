@@ -1,3 +1,7 @@
 .idea
 redis-test.iml
 target
+.settings
+.classpath
+.project
+redist-test.iml
